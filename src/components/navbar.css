@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 60px;
+    width: 100vw;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+
+}
+
+.heading-text{
+    color: white;
+    font-size: 30px;
+}
+.cart-section{
+    color: white;
+    font-size: 30px;
+}
