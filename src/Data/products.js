@@ -32,7 +32,7 @@ const PRODUCTS=[
     },
     {
         id:4,
-        productName: "Acer QG241Y 23.8 Inch Gaming LCD Monitor",
+        productName: "Acer Gaming LCD Monitor",
         price: 7999,
         productImage: img4,
     },
@@ -68,7 +68,7 @@ const PRODUCTS=[
     },
     {
         id:10,
-        productName: "Tmg Classic Game Console",
+        productName: "Tmg Game Console",
         price: 1200,
         productImage: img10,
     }, 

@@ -1,6 +1,7 @@
 import React from 'react';
 import PRODUCTS from '../Data/products';
 import Product from './Product';
+import "./shop.css"
 
 
 
