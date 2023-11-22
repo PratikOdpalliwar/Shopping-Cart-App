@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ht{
+    z-index: 2;
+}
+
+.hm{
+    z-index: -1;
+}
