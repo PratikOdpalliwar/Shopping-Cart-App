@@ -2,6 +2,7 @@ import React from 'react';
 import PRODUCTS from '../Data/products';
 import Product from './Product';
 import "./shop.css"
+import { Link } from 'react-router-dom';
 
 
 
@@ -18,11 +19,28 @@ const Shop = () => {
     //     </div>
     //   ))}
     // </div>
+
+    <>
 <div className="products">
         {PRODUCTS.map((product) => (
           <Product data={product} />
         ))}
       </div>
+
+
+
+<div className="login-container">
+
+<Link className='login-link' to="/Signup">
+<div className="login">
+  Sign Up
+</div>
+    </Link>
+
+
+</div>
+
+</>
   );
 };
 

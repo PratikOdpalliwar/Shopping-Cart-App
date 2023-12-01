@@ -24,6 +24,7 @@ Shop
  <i class="fa-solid fa-cart-shopping"></i>
 </Link>
   </div>
+  
  
 </div>
     </div>
